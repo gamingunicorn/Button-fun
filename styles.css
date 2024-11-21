@@ -1,1 +1,21 @@
 body {background-color: #FFC6BD;}
+h1    {color: #7e7979}
+
+button {
+    width: 42px;
+    height: 42px;
+    padding: 0; /* Remove padding to ensure exact size */
+    border: none; /* Optional: Remove border for clean look */
+    background-color: #4061a7; /* Example button color */
+    color: white; /* Text color */
+    text-align: center; /* Center text inside button */
+    line-height: 42px; /* Vertically center text */
+    font-size: 14px; /* Font size, adjust as needed */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 4px; /* Optional: rounded corners */
+    box-sizing: border-box; /* Ensure padding/border doesn't affect size */
+  }
+  
+ 
+
+  
