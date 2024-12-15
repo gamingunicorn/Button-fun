@@ -7,8 +7,8 @@ button {
     height: 42px;
     padding: 0; /* Remove padding to ensure exact size */
     border: none; /* Optional: Remove border for clean look */
-    background-color: #4061a7; /* Example button color */
-    color: white; /* Text color */
+    background-color: #ffffff; /* Example button color */
+    color: rgb(255, 255, 255); /* Text color */
     text-align: center; /* Center text inside button */
     line-height: 42px; /* Vertically center text */
     font-size: 14px; /* Font size, adjust as needed */
@@ -17,6 +17,4 @@ button {
     box-sizing: border-box; /* Ensure padding/border doesn't affect size */
   }
   
- 
-
   
